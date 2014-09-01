@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "OPUS": {
+            "applicationId": "TPf2kF11biPfcF5yIrEKqw6rTRxjFRibGgSKy73A", 
+            "masterKey": "W2diq3CTZJ3ArjeC7SJoiIgCDU694chUlDGLj0Sx"
+        }, 
+        "_default": {
+            "link": "OPUS"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
